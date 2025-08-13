@@ -3,6 +3,7 @@
 [User Manual for Kiisu v4a](https://github.com/kiisu-io/kiisu4/blob/main/kiisu%20v4a%20manual.pdf)
 
 [Schematics for Kiisu v4a](https://github.com/kiisu-io/kiisu4/blob/main/kiisu%20v4a%20schematics.pdf)
+
 [Schematics for Kiisu v4b](https://github.com/kiisu-io/kiisu4/blob/main/kiisu%20v4b%20schematics.pdf)
 
 Check other resources:
