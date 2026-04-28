@@ -26,3 +26,13 @@
 
 - [Cases and stuff for 3D printing on Printables](https://www.printables.com/@planmarks/collections/2364779).
 - [Cases and stuff for 3D printing on Makerworld](https://makerworld.com/ru/collections/6517412-kiisu-devboard).
+
+## See also
+
+- [KIISU SMOL](https://github.com/kiisu-io/kiisu-smol) — hardware design files for our modular networking development board (currently on [Indiegogo](https://www.indiegogo.com/projects/rainwalker/kiisu-smol---networking-development-board)).
+
+## License
+
+Hardware design files (schematics, 3D models) are released under the [CERN Open Hardware Licence Version 2 — Strongly Reciprocal (CERN-OHL-S v2)](LICENSE).
+
+Documentation, manuals, and this README are released under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE-DOCS).
