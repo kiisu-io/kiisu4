@@ -35,4 +35,6 @@
 
 Hardware design files (schematics, 3D models) are released under the [CERN Open Hardware Licence Version 2 — Strongly Reciprocal (CERN-OHL-S v2)](LICENSE).
 
+The hardware design is open only to the extent published in this repository. Schematics are provided as PDF documents and the boards as 3D models; the original CAD sources (schematic and PCB layout projects) of Kiisu V4 boards are not published, are not part of the licensed material and are not available on request.
+
 Documentation, manuals, and this README are released under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE-DOCS).
